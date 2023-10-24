@@ -1,0 +1,24 @@
+body{
+  margin: 0;
+}
+.testerOne, .testerTwo {
+  height: 100vh;
+}
+
+.testerOne {
+background-color: aqua;
+}
+
+.testerTwo {
+  background-color:salmon;
+}
+
+.square {
+width: 150px;
+height: 150px;
+background-color: blueviolet;
+}
+
+.red {
+  background-color: red;
+}
